@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0393/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說持明藏瑜伽大教尊那菩薩大明成就儀軌經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1169.xml
+    old_id: T20n1169
+hash: sha256:f769657f8f8ae1290c69174397e0853b2f67c4691da99d20f612dd6306279a73
